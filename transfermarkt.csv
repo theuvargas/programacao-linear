@@ -1,0 +1,876 @@
+Jogador,Posição,Preço,Time
+Jori,Goleiro,0.3,América Mineiro
+Airton,Goleiro,0.25,América Mineiro
+Matheus Cavichioli,Goleiro,0.2,América Mineiro
+Messias,Zagueiro,0.525,América Mineiro
+Eduardo Bauermann,Zagueiro,0.5,América Mineiro
+Anderson,Zagueiro,0.5,América Mineiro
+Ricardo Silva,Zagueiro,0.1,América Mineiro
+Zé Vitor,Zagueiro,0.05,América Mineiro
+João Paulo,Lateral Esq.,0.475,América Mineiro
+Alan Ruschel,Lateral Esq.,0.325,América Mineiro
+Zé Vitor,Lateral Esq.,0.1,América Mineiro
+Lucas Luan,Lateral Esq.,0.05,América Mineiro
+Marlon Lopes,Lateral Esq.,0.05,América Mineiro
+Patric,Lateral Dir.,0.8,América Mineiro
+Eduardo,Lateral Dir.,0.35,América Mineiro
+Diego Ferreira,Lateral Dir.,0.2,América Mineiro
+Zé Ricardo,Volante,1.5,América Mineiro
+Juninho,Volante,0.75,América Mineiro
+Lucas Kal,Volante,0.5,América Mineiro
+Sabino,Volante,0.1,América Mineiro
+Juninho Valoura,Meia Central,0.5,América Mineiro
+Ramon,Meia Central,0.2,América Mineiro
+Gustavinho,Meia Central,0.2,América Mineiro
+Léo Gomes,Meia Central,0.15,América Mineiro
+Lucas Gabriel,Meia Central,0.05,América Mineiro
+Isaque,Meia Ofensivo,1.3,América Mineiro
+Bruno Nazário,Meia Ofensivo,0.8,América Mineiro
+Alê,Meia Ofensivo,0.5,América Mineiro
+Yan Sasse,Meia Ofensivo,0.5,América Mineiro
+Geovane,Meia Ofensivo,0.2,América Mineiro
+Felipe Azevedo,Ponta Esquerda,0.5,América Mineiro
+Luiz Fernando,Ponta Esquerda,0.05,América Mineiro
+Orlando Berrío,Ponta Direita,1.0,América Mineiro
+Leandro Carvalho,Ponta Direita,0.7,América Mineiro
+Ademir,Ponta Direita,0.5,América Mineiro
+Carlos Alberto,Ponta Direita,0.05,América Mineiro
+Mauro Zárate,Seg. Atacante,1.0,América Mineiro
+Rodolfo,Centroavante,1.0,América Mineiro
+Ribamar,Centroavante,0.6,América Mineiro
+Marcelo Toscano,Centroavante,0.4,América Mineiro
+Chrigor,Centroavante,0.25,América Mineiro
+Léo Passos,Centroavante,0.15,América Mineiro
+Lohan,Centroavante,0.1,América Mineiro
+Vitão,Centroavante,0.1,América Mineiro
+Santos,Goleiro,2.5,Athletico
+Anderson Paixão,Goleiro,0.2,Athletico
+Bento,Goleiro,0.05,Athletico
+Lucas Halter,Zagueiro,4.0,Athletico
+Pedro Henrique,Zagueiro,2.5,Athletico
+Thiago Heleno,Zagueiro,1.6,Athletico
+Felipe Aguilar,Zagueiro,1.2,Athletico
+Zé Ivaldo,Zagueiro,0.75,Athletico
+Lucas Fasson,Zagueiro,0.65,Athletico
+Nicolás Hernández,Zagueiro,0.5,Athletico
+Luan Patrick,Zagueiro,0.25,Athletico
+Edu,Zagueiro,0.025,Athletico
+Abner Vinícius,Lateral Esq.,7.5,Athletico
+Nicolas,Lateral Esq.,0.7,Athletico
+Márcio Azevedo,Lateral Esq.,0.6,Athletico
+Khellven,Lateral Dir.,4.7,Athletico
+Marcinho,Lateral Dir.,1.0,Athletico
+Richard Coelho,Volante,1.5,Athletico
+Jaime Alvarado,Volante,0.45,Athletico
+Christian,Meia Central,4.5,Athletico
+Léo Cittadini,Meia Central,2.0,Athletico
+Erick,Meia Central,1.5,Athletico
+Nikão,Meia Ofensivo,1.4,Athletico
+David Terans,Meia Ofensivo,1.4,Athletico
+Fernando Canesin,Meia Ofensivo,1.1,Athletico
+Jádson,Meia Ofensivo,0.5,Athletico
+Matheus Anjos,Meia Ofensivo,0.1,Athletico
+Kawan,Meia Ofensivo,0.1,Athletico
+Vitinho,Ponta Esquerda,3.5,Athletico
+Pedro Rocha,Ponta Esquerda,1.5,Athletico
+Carlos Eduardo,Ponta Direita,3.0,Athletico
+Reinaldo,Ponta Direita,0.75,Athletico
+Yago César,Ponta Direita,0.4,Athletico
+Jajá,Ponta Direita,0.05,Athletico
+Renato Kayzer,Centroavante,2.0,Athletico
+Matheus Babi,Centroavante,2.0,Athletico
+Vinicius Mingotti,Centroavante,0.8,Athletico
+Guilherme Bissoli,Centroavante,0.6,Athletico
+Fernando Miguel,Goleiro,0.65,Atlético Goianiense
+Luan Polli,Goleiro,0.6,Atlético Goianiense
+Mauricio Kozlinski,Goleiro,0.35,Atlético Goianiense
+Leonardo,Goleiro,0.025,Atlético Goianiense
+Pedro Henrique,Zagueiro,1.7,Atlético Goianiense
+Éder,Zagueiro,0.85,Atlético Goianiense
+Nathan Silva,Zagueiro,0.6,Atlético Goianiense
+Gilvan,Zagueiro,0.475,Atlético Goianiense
+Werley,Zagueiro,0.45,Atlético Goianiense
+Oliveira,Zagueiro,0.4,Atlético Goianiense
+Wanderson,Zagueiro,0.35,Atlético Goianiense
+Michel,Zagueiro,0.05,Atlético Goianiense
+Natanael,Lateral Esq.,1.3,Atlético Goianiense
+Nicolas,Lateral Esq.,0.7,Atlético Goianiense
+Jefferson,Lateral Esq.,0.6,Atlético Goianiense
+Arthur Henrique,Lateral Esq.,0.475,Atlético Goianiense
+Igor Cariús,Lateral Esq.,0.325,Atlético Goianiense
+Dudu,Lateral Dir.,0.85,Atlético Goianiense
+Arnaldo,Lateral Dir.,0.55,Atlético Goianiense
+Marlon Freitas,Volante,1.0,Atlético Goianiense
+Rithely,Volante,0.75,Atlético Goianiense
+Willian Maranhão,Volante,0.7,Atlético Goianiense
+Matheus Barbosa,Volante,0.475,Atlético Goianiense
+Matheus Pereira,Volante,0.35,Atlético Goianiense
+Rickson,Volante,0.3,Atlético Goianiense
+André,Volante,0.1,Atlético Goianiense
+Baralhas,Meia Central,0.1,Atlético Goianiense
+Victor Paraíba,Meia Esquerda,0.2,Atlético Goianiense
+João Paulo,Meia Ofensivo,0.65,Atlético Goianiense
+Chico,Meia Ofensivo,0.6,Atlético Goianiense
+Matheus Oliveira,Meia Ofensivo,0.05,Atlético Goianiense
+Arthur Gomes,Ponta Esquerda,1.8,Atlético Goianiense
+Jonas Toró,Ponta Esquerda,1.7,Atlético Goianiense
+Danilo Gomes,Ponta Esquerda,0.45,Atlético Goianiense
+Wellington Rato,Ponta Esquerda,0.35,Atlético Goianiense
+Vitor Leque,Ponta Esquerda,0.25,Atlético Goianiense
+Janderson,Ponta Direita,2.0,Atlético Goianiense
+André Luis,Ponta Direita,0.9,Atlético Goianiense
+Roberson,Seg. Atacante,0.2,Atlético Goianiense
+Brian Montenegro,Centroavante,1.0,Atlético Goianiense
+Zé Roberto,Centroavante,0.9,Atlético Goianiense
+Pablo Dyego,Centroavante,0.35,Atlético Goianiense
+Everson,Goleiro,1.5,Atlético Mineiro
+Rafael,Goleiro,0.75,Atlético Mineiro
+Michael,Goleiro,0.4,Atlético Mineiro
+Matheus Mendes,Goleiro,0.25,Atlético Mineiro
+Júnior Alonso,Zagueiro,3.5,Atlético Mineiro
+Igor Rabello,Zagueiro,3.5,Atlético Mineiro
+Gabriel,Zagueiro,0.95,Atlético Mineiro
+Réver,Zagueiro,0.6,Atlético Mineiro
+Nathan Silva,Zagueiro,0.6,Atlético Mineiro
+Bueno,Zagueiro,0.5,Atlético Mineiro
+Guilherme Arana,Lateral Esq.,5.5,Atlético Mineiro
+Dodô,Lateral Esq.,1.0,Atlético Mineiro
+Guga,Lateral Dir.,7.0,Atlético Mineiro
+Mariano,Lateral Dir.,0.7,Atlético Mineiro
+Talison,Lateral Dir.,0.05,Atlético Mineiro
+Jair,Volante,2.5,Atlético Mineiro
+Neto,Volante,0.05,Atlético Mineiro
+Tchê Tchê,Meia Central,4.0,Atlético Mineiro
+Allan,Meia Central,3.5,Atlético Mineiro
+Alan Franco,Meia Central,3.0,Atlético Mineiro
+Calebe,Meia Central,0.8,Atlético Mineiro
+Matías Zaracho,Meia Ofensivo,9.0,Atlético Mineiro
+Nacho Fernández,Meia Ofensivo,6.0,Atlético Mineiro
+Hyoran,Meia Ofensivo,2.2,Atlético Mineiro
+Nathan,Meia Ofensivo,2.0,Atlético Mineiro
+Keno,Ponta Esquerda,3.0,Atlético Mineiro
+Jefferson Savarino,Ponta Direita,5.5,Atlético Mineiro
+Sávio,Ponta Direita,5.0,Atlético Mineiro
+Dylan Borrero,Ponta Direita,0.9,Atlético Mineiro
+Eduardo Vargas,Seg. Atacante,3.0,Atlético Mineiro
+Diego Costa,Centroavante,6.0,Atlético Mineiro
+Marrony,Centroavante,3.8,Atlético Mineiro
+Eduardo Sasha,Centroavante,3.2,Atlético Mineiro
+Hulk,Centroavante,2.5,Atlético Mineiro
+Diego Tardelli,Centroavante,0.9,Atlético Mineiro
+Richard,Goleiro,0.5,Ceará
+João Ricardo,Goleiro,0.4,Ceará
+Vinicius Machado,Goleiro,0.05,Ceará
+Luiz Otávio,Zagueiro,0.6,Ceará
+Messias,Zagueiro,0.525,Ceará
+Klaus,Zagueiro,0.45,Ceará
+Gabriel Lacerda,Zagueiro,0.3,Ceará
+Alan,Zagueiro,0.25,Ceará
+Jordan,Zagueiro,0.05,Ceará
+Bruno Pacheco,Lateral Esq.,0.8,Ceará
+Kelvyn,Lateral Esq.,0.2,Ceará
+Gabriel Dias,Lateral Dir.,0.75,Ceará
+Eduardo,Lateral Dir.,0.35,Ceará
+Buiú,Lateral Dir.,0.125,Ceará
+Fabinho,Volante,0.5,Ceará
+Willian Oliveira,Volante,0.325,Ceará
+William Oliveira,Volante,0.3,Ceará
+Marthã,Volante,0.25,Ceará
+Fernando Sobral,Meia Central,0.9,Ceará
+Charles,Meia Central,0.85,Ceará
+Marlon,Meia Central,0.325,Ceará
+Pedro Naressi,Meia Central,0.25,Ceará
+Vina,Meia Ofensivo,1.5,Ceará
+Jorginho,Meia Ofensivo,0.8,Ceará
+Wescley,Meia Ofensivo,0.4,Ceará
+Felipe Silva,Meia Ofensivo,0.375,Ceará
+Stiven Mendoza,Ponta Esquerda,2.0,Ceará
+Vitor Jacaré,Ponta Esquerda,0.3,Ceará
+Yony González,Ponta Direita,1.6,Ceará
+Lima,Ponta Direita,1.1,Ceará
+Erick,Ponta Direita,0.3,Ceará
+Rick,Ponta Direita,0.05,Ceará
+Gabriel Santos,Ponta Direita,0.025,Ceará
+Felipe Vizeu,Centroavante,1.2,Ceará
+Cléber,Centroavante,1.0,Ceará
+Jael,Centroavante,0.45,Ceará
+Saulo Mineiro,Centroavante,0.25,Ceará
+Cristiano,Centroavante,0.025,Ceará
+Cássio,Goleiro,2.0,Corinthians
+Matheus Donelli,Goleiro,1.0,Corinthians
+Caíque França,Goleiro,0.25,Corinthians
+Filipe,Goleiro,0.05,Corinthians
+Guilherme Vicentini,Goleiro,0.05,Corinthians
+Jemerson,Zagueiro,3.0,Corinthians
+Gil,Zagueiro,2.7,Corinthians
+Léo Santos,Zagueiro,2.0,Corinthians
+Bruno Méndez,Zagueiro,1.8,Corinthians
+Raul Gustavo,Zagueiro,1.5,Corinthians
+João Victor,Zagueiro,0.8,Corinthians
+Lucas Piton,Lateral Esq.,5.5,Corinthians
+Fábio Santos,Lateral Esq.,0.65,Corinthians
+Fágner,Lateral Dir.,3.0,Corinthians
+João Pedro,Lateral Dir.,0.9,Corinthians
+Víctor Cantillo,Volante,3.2,Corinthians
+Gabriel,Volante,3.0,Corinthians
+Xavier,Volante,0.8,Corinthians
+Renato Augusto,Meia Central,5.0,Corinthians
+Ramiro,Meia Central,2.3,Corinthians
+Guilherme Camacho,Meia Central,0.9,Corinthians
+Roni,Meia Central,0.6,Corinthians
+Mandaca,Meia Central,0.5,Corinthians
+Vitinho,Meia Central,0.1,Corinthians
+Mateus Vital,Meia Ofensivo,3.5,Corinthians
+Luan,Meia Ofensivo,3.5,Corinthians
+Ángelo Araos,Meia Ofensivo,3.2,Corinthians
+Giuliano,Meia Ofensivo,3.1,Corinthians
+Juan Cazares,Meia Ofensivo,2.5,Corinthians
+Rómulo Otero,Meia Ofensivo,2.2,Corinthians
+Matheus Araújo,Meia Ofensivo,0.1,Corinthians
+Róger Guedes,Ponta Esquerda,9.0,Corinthians
+Willian,Ponta Esquerda,9.0,Corinthians
+Léo Natel,Ponta Esquerda,1.0,Corinthians
+Marquinhos,Ponta Esquerda,0.85,Corinthians
+Antony,Ponta Esquerda,0.1,Corinthians
+Gustavo Silva,Ponta Direita,1.5,Corinthians
+Gabriel Pereira,Ponta Direita,0.7,Corinthians
+Adson,Ponta Direita,0.3,Corinthians
+Rodrigo Varanda,Seg. Atacante,0.5,Corinthians
+Jô,Centroavante,1.5,Corinthians
+Cauê,Centroavante,1.0,Corinthians
+Walter,Goleiro,0.4,Cuiabá
+João Carlos,Goleiro,0.4,Cuiabá
+Matheus Nogueira,Goleiro,0.1,Cuiabá
+Alan Empereur,Zagueiro,1.0,Cuiabá
+Marllon,Zagueiro,0.5,Cuiabá
+Paulão,Zagueiro,0.4,Cuiabá
+Anderson Conceição,Zagueiro,0.35,Cuiabá
+Wálber,Zagueiro,0.1,Cuiabá
+Joaquim,Zagueiro,0.1,Cuiabá
+Vitor Hugo,Zagueiro,0.05,Cuiabá
+Lucas Hernández,Lateral Esq.,1.0,Cuiabá
+Uendel,Lateral Esq.,0.8,Cuiabá
+Alexandre,Lateral Esq.,0.1,Cuiabá
+Lucas Ramon,Lateral Dir.,0.3,Cuiabá
+João Lucas,Lateral Dir.,0.3,Cuiabá
+Auremir,Volante,0.6,Cuiabá
+Uillian Correia,Volante,0.6,Cuiabá
+Yuri,Volante,0.6,Cuiabá
+Camilo,Meia Central,1.3,Cuiabá
+Rafael Gava,Meia Central,0.3,Cuiabá
+Gabriel Pierini,Meia Central,0.15,Cuiabá
+Maxwell,Meia Esquerda,0.2,Cuiabá
+Yesús Cabrera,Meia Ofensivo,1.5,Cuiabá
+Élvis,Meia Ofensivo,0.725,Cuiabá
+Pepê,Meia Ofensivo,0.4,Cuiabá
+Clayson,Ponta Esquerda,0.9,Cuiabá
+Danilo Gomes,Ponta Esquerda,0.45,Cuiabá
+Osman,Ponta Esquerda,0.325,Cuiabá
+Felipe Marques,Ponta Esquerda,0.3,Cuiabá
+Jonathan Cafú,Ponta Direita,1.1,Cuiabá
+Guilherme Pato,Ponta Direita,0.7,Cuiabá
+Murilo Rangel,Ponta Direita,0.3,Cuiabá
+Josiel,Ponta Direita,0.1,Cuiabá
+Yan,Ponta Direita,0.05,Cuiabá
+Rikelme,Seg. Atacante,0.1,Cuiabá
+Rafael Elias,Centroavante,0.625,Cuiabá
+Raulzinho,Centroavante,0.5,Cuiabá
+Jenison,Centroavante,0.4,Cuiabá
+Élton,Centroavante,0.4,Cuiabá
+Marcos Felipe,Goleiro,1.0,Fluminense
+Muriel,Goleiro,0.8,Fluminense
+Pedro Rangel,Goleiro,0.1,Fluminense
+Gustavo Ramalho,Goleiro,0.1,Fluminense
+João Lopes,Goleiro,0.05,Fluminense
+Nino,Zagueiro,4.0,Fluminense
+Luccas Claro,Zagueiro,1.2,Fluminense
+David Braz,Zagueiro,0.9,Fluminense
+Reginaldo,Zagueiro,0.6,Fluminense
+Manoel,Zagueiro,0.55,Fluminense
+Matheus Ferraz,Zagueiro,0.4,Fluminense
+Frazan,Zagueiro,0.3,Fluminense
+Rafael Ribeiro,Zagueiro,0.075,Fluminense
+Higor Gabriel,Zagueiro,0.05,Fluminense
+Marlon,Lateral Esq.,3.8,Fluminense
+Danilo Barcelos,Lateral Esq.,0.85,Fluminense
+Egídio,Lateral Esq.,0.8,Fluminense
+Calegari,Lateral Dir.,4.0,Fluminense
+Igor Julião,Lateral Dir.,0.85,Fluminense
+Samuel Xavier,Lateral Dir.,0.75,Fluminense
+Daniel,Lateral Dir.,0.05,Fluminense
+Wellington,Volante,1.1,Fluminense
+Húdson,Volante,0.8,Fluminense
+Yuri,Volante,0.6,Fluminense
+Caio Vinicius,Volante,0.5,Fluminense
+André,Volante,0.5,Fluminense
+Mateus Nascimento,Volante,0.025,Fluminense
+Metinho,Meia Central,5.0,Fluminense
+Martinelli,Meia Central,2.3,Fluminense
+Nonato,Meia Central,1.8,Fluminense
+Yago Felipe,Meia Central,1.4,Fluminense
+Wiris Gustavo,Meia Esquerda,0.1,Fluminense
+Juan Cazares,Meia Ofensivo,2.5,Fluminense
+Miguel,Meia Ofensivo,2.0,Fluminense
+Ganso,Meia Ofensivo,0.8,Fluminense
+Nenê,Meia Ofensivo,0.75,Fluminense
+Matheus Martins,Ponta Esquerda,4.5,Fluminense
+Gabriel Teixeira,Ponta Esquerda,1.5,Fluminense
+Jhon Arias,Ponta Esquerda,1.0,Fluminense
+Kayky,Ponta Direita,14.0,Fluminense
+Luiz Henrique,Ponta Direita,3.5,Fluminense
+Caio Paulista,Ponta Direita,1.5,Fluminense
+Michel Araújo,Ponta Direita,1.4,Fluminense
+Fernando Pacheco,Ponta Direita,0.7,Fluminense
+Wisney,Seg. Atacante,0.025,Fluminense
+Abel Hernández,Centroavante,2.4,Fluminense
+Fred,Centroavante,0.75,Fluminense
+Lucca,Centroavante,0.7,Fluminense
+John Kennedy,Centroavante,0.5,Fluminense
+Raúl Bobadilla,Centroavante,0.4,Fluminense
+Hugo Souza,Goleiro,3.5,Flamengo
+Diego Alves,Goleiro,1.5,Flamengo
+Gabriel Batista,Goleiro,0.5,Flamengo
+César,Goleiro,0.35,Flamengo
+Bruno Viana,Zagueiro,7.0,Flamengo
+Rodrigo Caio,Zagueiro,6.5,Flamengo
+David Luiz,Zagueiro,4.0,Flamengo
+Léo Pereira,Zagueiro,3.0,Flamengo
+Gustavo Henrique,Zagueiro,2.6,Flamengo
+Gabriel Noga,Zagueiro,2.0,Flamengo
+Natan,Zagueiro,1.0,Flamengo
+Renê,Lateral Esq.,1.5,Flamengo
+Filipe Luís,Lateral Esq.,1.5,Flamengo
+Ramon,Lateral Esq.,0.8,Flamengo
+Rodinei,Lateral Dir.,1.2,Flamengo
+Mauricio Isla,Lateral Dir.,0.95,Flamengo
+Matheuzinho,Lateral Dir.,0.9,Flamengo
+João Lucas,Lateral Dir.,0.3,Flamengo
+Willian Arão,Volante,5.0,Flamengo
+João Gomes,Volante,3.5,Flamengo
+Thiago Maia,Volante,3.0,Flamengo
+Piris da Motta,Volante,1.2,Flamengo
+Hugo Moura,Volante,0.85,Flamengo
+Gerson,Meia Central,20.0,Flamengo
+Diego,Meia Central,1.3,Flamengo
+Kenedy,Meia Esquerda,10.0,Flamengo
+Giorgian de Arrascaeta,Meia Ofensivo,18.0,Flamengo
+Andreas Pereira,Meia Ofensivo,8.0,Flamengo
+Éverton Ribeiro,Meia Ofensivo,8.0,Flamengo
+Lázaro,Meia Ofensivo,2.5,Flamengo
+Pepê,Meia Ofensivo,0.4,Flamengo
+Bruno Henrique,Ponta Esquerda,4.5,Flamengo
+Vitinho,Ponta Esquerda,4.0,Flamengo
+Michael,Ponta Esquerda,3.0,Flamengo
+Thiaguinho,Ponta Esquerda,0.9,Flamengo
+Gabriel Barbosa,Centroavante,26.0,Flamengo
+Pedro,Centroavante,14.0,Flamengo
+Rodrigo Muniz,Centroavante,3.0,Flamengo
+Vitor Gabriel,Centroavante,0.35,Flamengo
+Felipe Alves,Goleiro,0.65,Fortaleza
+Marcelo Boeck,Goleiro,0.2,Fortaleza
+Kennedy,Goleiro,0.05,Fortaleza
+Max Walef,Goleiro,0.05,Fortaleza
+Marcelo Benevenuto,Zagueiro,0.8,Fortaleza
+Juan Quintero,Zagueiro,0.75,Fortaleza
+Tinga,Zagueiro,0.7,Fortaleza
+Jackson,Zagueiro,0.6,Fortaleza
+Wanderson,Zagueiro,0.35,Fortaleza
+Titi,Zagueiro,0.25,Fortaleza
+João Paulo,Zagueiro,0.05,Fortaleza
+Vinicius,Zagueiro,0.05,Fortaleza
+Bruno Melo,Lateral Esq.,0.7,Fortaleza
+Carlinhos,Lateral Esq.,0.4,Fortaleza
+Daniel Guedes,Lateral Dir.,0.55,Fortaleza
+Vitor Ricardo,Lateral Dir.,0.05,Fortaleza
+Felipe,Volante,0.9,Fortaleza
+Matheus Jussa,Volante,0.5,Fortaleza
+Ronald,Volante,0.4,Fortaleza
+Pablo,Volante,0.025,Fortaleza
+Éderson,Meia Central,4.0,Fortaleza
+Gustavo Blanco,Meia Central,0.75,Fortaleza
+Juninho Valoura,Meia Central,0.5,Fortaleza
+Yago Pikachu,Meia Direita,1.4,Fortaleza
+Lucas Crispim,Meia Esquerda,0.3,Fortaleza
+Lucas Lima,Meia Ofensivo,3.0,Fortaleza
+Isaque,Meia Ofensivo,1.3,Fortaleza
+João Paulo,Meia Ofensivo,0.65,Fortaleza
+Mariano Vázquez,Meia Ofensivo,0.55,Fortaleza
+Edinho,Meia Ofensivo,0.475,Fortaleza
+Matheus Vargas,Meia Ofensivo,0.4,Fortaleza
+Luiz Henrique,Meia Ofensivo,0.075,Fortaleza
+David,Ponta Esquerda,1.3,Fortaleza
+Romarinho,Ponta Esquerda,0.95,Fortaleza
+Wellington Nem,Ponta Direita,0.8,Fortaleza
+Osvaldo,Ponta Direita,0.5,Fortaleza
+Robson,Seg. Atacante,0.85,Fortaleza
+Valentín Depietri,Seg. Atacante,0.575,Fortaleza
+Ángelo Henríquez,Centroavante,0.7,Fortaleza
+Wellington Paulista,Centroavante,0.5,Fortaleza
+Gustavo Coutinho,Centroavante,0.2,Fortaleza
+Tiago Orobó,Centroavante,0.05,Fortaleza
+Igor Torres,Centroavante,0.025,Fortaleza
+Marcelo Lomba,Goleiro,1.3,Internacional
+Danilo Fernandes,Goleiro,0.75,Internacional
+Daniel,Goleiro,0.05,Internacional
+Keiller,Goleiro,0.05,Internacional
+Victor Cuesta,Zagueiro,4.0,Internacional
+Lucas Ribeiro,Zagueiro,2.0,Internacional
+Bruno Méndez,Zagueiro,1.8,Internacional
+Rodrigo Moledo,Zagueiro,1.4,Internacional
+Gabriel Mercado,Zagueiro,1.2,Internacional
+Kaique Rocha,Zagueiro,0.8,Internacional
+Pedro Henrique,Zagueiro,0.65,Internacional
+Moisés,Lateral Esq.,1.1,Internacional
+Léo Borges,Lateral Esq.,0.8,Internacional
+Fabricio Bustos,Lateral Dir.,5.0,Internacional
+Renzo Saravia,Lateral Dir.,3.2,Internacional
+Heitor,Lateral Dir.,3.0,Internacional
+Rodinei,Lateral Dir.,1.2,Internacional
+Lucas Mazetti,Lateral Dir.,0.025,Internacional
+Rodrigo Dourado,Volante,4.0,Internacional
+Gabriel,Volante,3.0,Internacional
+Zé Gabriel,Volante,2.0,Internacional
+Rodrigo Lindoso,Volante,1.5,Internacional
+Lucas Ramos,Volante,0.5,Internacional
+Liziero,Meia Central,4.0,Internacional
+Edenilson,Meia Central,2.4,Internacional
+Nonato,Meia Central,1.8,Internacional
+Johnny,Meia Central,0.9,Internacional
+Patrick,Meia Esquerda,4.5,Internacional
+Bruno Praxedes,Meia Ofensivo,5.0,Internacional
+Gabriel Boschilia,Meia Ofensivo,3.0,Internacional
+Mauricio,Meia Ofensivo,1.5,Internacional
+Juan Manuel Cuesta,Meia Ofensivo,0.35,Internacional
+Andrés D'Alessandro,Meia Ofensivo,0.075,Internacional
+Taison,Ponta Esquerda,7.0,Internacional
+Peglow,Ponta Esquerda,4.0,Internacional
+Marcos Guilherme,Ponta Esquerda,2.5,Internacional
+Gustavo Maia,Ponta Esquerda,2.0,Internacional
+David,Ponta Esquerda,1.3,Internacional
+Carlos Palacios,Ponta Direita,2.0,Internacional
+Caio Vidal,Ponta Direita,0.9,Internacional
+Guilherme Pato,Ponta Direita,0.7,Internacional
+Andrés Amaya,Ponta Direita,0.325,Internacional
+Wesley,Centroavante,13.0,Internacional
+Yuri Alberto,Centroavante,6.0,Internacional
+Thiago Galhardo,Centroavante,2.5,Internacional
+Abel Hernández,Centroavante,2.4,Internacional
+Paolo Guerrero,Centroavante,0.75,Internacional
+Douglas Friedrich,Goleiro,0.9,Juventude
+Marcelo Carné,Goleiro,0.15,Juventude
+Willian,Goleiro,0.05,Juventude
+Rafael Forster,Zagueiro,0.85,Juventude
+Juan Quintero,Zagueiro,0.75,Juventude
+Cleberson,Zagueiro,0.4,Juventude
+Vitor Mendes,Zagueiro,0.2,Juventude
+Didi,Zagueiro,0.1,Juventude
+Kelvin,Zagueiro,0.05,Juventude
+William Matheus,Lateral Esq.,0.8,Juventude
+Guilherme Santos,Lateral Esq.,0.55,Juventude
+Eltinho,Lateral Esq.,0.3,Juventude
+Alyson,Lateral Esq.,0.25,Juventude
+Michel Macedo,Lateral Dir.,1.0,Juventude
+Paulo Henrique,Lateral Dir.,0.15,Juventude
+Samuel Santos,Lateral Dir.,0.125,Juventude
+Yago,Volante,0.8,Juventude
+Dawhan,Volante,0.65,Juventude
+Elton,Volante,0.5,Juventude
+João Paulo,Volante,0.4,Juventude
+Matheus Jesus,Meia Central,0.95,Juventude
+Jádson,Meia Central,0.75,Juventude
+Gustavo Bochecha,Meia Central,0.7,Juventude
+Guilherme Castilho,Meia Central,0.6,Juventude
+Ricardinho,Meia Central,0.5,Juventude
+Matheuzinho,Meia Ofensivo,0.6,Juventude
+Chico,Meia Ofensivo,0.6,Juventude
+Bruninho,Meia Ofensivo,0.5,Juventude
+Wescley,Meia Ofensivo,0.4,Juventude
+Renan Bressan,Meia Ofensivo,0.3,Juventude
+Wagner,Meia Ofensivo,0.1,Juventude
+Nicolas,Meia Ofensivo,0.05,Juventude
+Paulinho Bóia,Ponta Esquerda,1.0,Juventude
+Edwin Mosquera,Ponta Esquerda,0.3,Juventude
+Capixaba,Ponta Esquerda,0.3,Juventude
+Fernando Pacheco,Ponta Direita,0.7,Juventude
+Sorriso,Ponta Direita,0.3,Juventude
+Roberson,Seg. Atacante,0.2,Juventude
+Nicolás Castillo,Centroavante,2.0,Juventude
+Matheus Peixoto,Centroavante,0.7,Juventude
+Ricardo Bueno,Centroavante,0.4,Juventude
+Rafael Grampola,Centroavante,0.2,Juventude
+Roberto,Centroavante,0.1,Juventude
+Júnior Todinho,Centroavante,0.05,Juventude
+Weverton,Goleiro,5.0,Palmeiras
+Jailson,Goleiro,0.25,Palmeiras
+Vinicius Silvestre,Goleiro,0.15,Palmeiras
+Renan,Zagueiro,7.0,Palmeiras
+Gustavo Gómez,Zagueiro,6.0,Palmeiras
+Luan,Zagueiro,3.0,Palmeiras
+Henri,Zagueiro,2.0,Palmeiras
+Benjamín Kuscevic,Zagueiro,1.3,Palmeiras
+Alan Empereur,Zagueiro,1.0,Palmeiras
+Emerson Santos,Zagueiro,0.8,Palmeiras
+Lucas Freitas,Zagueiro,0.1,Palmeiras
+Matías Viña,Lateral Esq.,4.0,Palmeiras
+Jorge,Lateral Esq.,3.2,Palmeiras
+Victor Luis,Lateral Esq.,1.5,Palmeiras
+Joaquín Piquerez,Lateral Esq.,1.0,Palmeiras
+Lucas Esteves,Lateral Esq.,0.8,Palmeiras
+Marcos Rocha,Lateral Dir.,1.5,Palmeiras
+Mayke,Lateral Dir.,1.1,Palmeiras
+Danilo,Volante,8.0,Palmeiras
+Danilo Barbosa,Volante,6.5,Palmeiras
+Felipe Melo,Volante,0.6,Palmeiras
+Gabriel Menino,Meia Central,14.0,Palmeiras
+Patrick de Paula,Meia Central,12.0,Palmeiras
+Zé Rafael,Meia Central,4.0,Palmeiras
+Matheus Fernandes,Meia Central,1.5,Palmeiras
+Raphael Veiga,Meia Ofensivo,4.5,Palmeiras
+Gustavo Scarpa,Meia Ofensivo,3.5,Palmeiras
+Lucas Lima,Meia Ofensivo,3.0,Palmeiras
+Dudu,Ponta Esquerda,12.0,Palmeiras
+Wesley,Ponta Esquerda,2.3,Palmeiras
+Gabriel Veron,Ponta Direita,18.0,Palmeiras
+Giovani,Ponta Direita,5.0,Palmeiras
+Breno Lopes,Ponta Direita,1.5,Palmeiras
+Rony,Centroavante,9.0,Palmeiras
+Deyverson,Centroavante,2.8,Palmeiras
+Luiz Adriano,Centroavante,2.5,Palmeiras
+Willian,Centroavante,1.2,Palmeiras
+Gabriel Silva,Centroavante,0.9,Palmeiras
+Rafael Elias,Centroavante,0.625,Palmeiras
+Newton Williams,Centroavante,0.025,Palmeiras
+Cleiton,Goleiro,5.0,Red Bull Bragantino
+Júlio César,Goleiro,0.25,Red Bull Bragantino
+Maycon Cleiton,Goleiro,0.1,Red Bull Bragantino
+Léo Ortiz,Zagueiro,2.0,Red Bull Bragantino
+César Haydar,Zagueiro,1.5,Red Bull Bragantino
+Fabrício Bruno,Zagueiro,1.2,Red Bull Bragantino
+Natan,Zagueiro,1.0,Red Bull Bragantino
+Ligger,Zagueiro,0.7,Red Bull Bragantino
+Léo Realpe,Zagueiro,0.7,Red Bull Bragantino
+Luan Cândido,Lateral Esq.,3.5,Red Bull Bragantino
+Edimar,Lateral Esq.,0.8,Red Bull Bragantino
+Weverson,Lateral Esq.,0.5,Red Bull Bragantino
+Aderlan,Lateral Dir.,0.8,Red Bull Bragantino
+Weverton,Lateral Dir.,0.6,Red Bull Bragantino
+Rafael Luiz,Lateral Dir.,0.05,Red Bull Bragantino
+Raul,Volante,1.5,Red Bull Bragantino
+Ricardo Ryller,Volante,1.1,Red Bull Bragantino
+Emiliano Martínez,Volante,0.55,Red Bull Bragantino
+Jadsom,Volante,0.4,Red Bull Bragantino
+Eric Ramires,Meia Central,3.0,Red Bull Bragantino
+Lucas Evangelista,Meia Central,2.5,Red Bull Bragantino
+Claudinho,Meia Ofensivo,11.0,Red Bull Bragantino
+Bruno Praxedes,Meia Ofensivo,5.0,Red Bull Bragantino
+Miguel,Meia Ofensivo,2.0,Red Bull Bragantino
+Vitinho,Meia Ofensivo,0.6,Red Bull Bragantino
+Pedrinho,Ponta Esquerda,1.5,Red Bull Bragantino
+Tomás Cuello,Ponta Esquerda,0.8,Red Bull Bragantino
+Bruno Tubarão,Ponta Esquerda,0.7,Red Bull Bragantino
+Luis Phelipe,Ponta Esquerda,0.5,Red Bull Bragantino
+Leandrinho,Ponta Esquerda,0.475,Red Bull Bragantino
+Artur,Ponta Direita,5.0,Red Bull Bragantino
+Helinho,Ponta Direita,4.0,Red Bull Bragantino
+Jan Hurtado,Centroavante,4.5,Red Bull Bragantino
+Alerrandro,Centroavante,2.7,Red Bull Bragantino
+Ytalo,Centroavante,0.9,Red Bull Bragantino
+Gabriel Novaes,Centroavante,0.6,Red Bull Bragantino
+Chrigor,Centroavante,0.25,Red Bull Bragantino
+João Paulo,Goleiro,1.4,Santos
+Jandrei,Goleiro,1.0,Santos
+Vladimir,Goleiro,0.7,Santos
+John,Goleiro,0.5,Santos
+Kaiky,Zagueiro,6.0,Santos
+Luan Peres,Zagueiro,2.0,Santos
+Emiliano Velázquez,Zagueiro,1.0,Santos
+Sabino,Zagueiro,0.95,Santos
+Alex,Zagueiro,0.45,Santos
+Luiz Felipe,Zagueiro,0.4,Santos
+Wagner Leonardo,Zagueiro,0.3,Santos
+Danilo Boza,Zagueiro,0.15,Santos
+Derick,Zagueiro,0.1,Santos
+Robson Reis,Zagueiro,0.1,Santos
+Felipe Jonatan,Lateral Esq.,4.0,Santos
+Moraes,Lateral Esq.,0.3,Santos
+Madson,Lateral Dir.,0.9,Santos
+Pará,Lateral Dir.,0.8,Santos
+Mikael,Lateral Dir.,0.1,Santos
+Alison,Volante,2.0,Santos
+Vinicius Balieiro,Volante,1.5,Santos
+Jobson,Volante,0.95,Santos
+Jhonnathan,Volante,0.1,Santos
+Guilherme Nunes,Volante,0.05,Santos
+Sandry,Meia Central,3.5,Santos
+Jean Mota,Meia Central,1.3,Santos
+Vinicius Zanocelo,Meia Central,0.9,Santos
+Guilherme Camacho,Meia Central,0.9,Santos
+Ivonei,Meia Central,0.75,Santos
+Gabriel Pirani,Meia Ofensivo,2.5,Santos
+Carlos Sánchez,Meia Ofensivo,1.2,Santos
+Lucas Lourenço,Meia Ofensivo,0.4,Santos
+Anderson Ceará,Meia Ofensivo,0.3,Santos
+Luiz Henrique,Meia Ofensivo,0.25,Santos
+Augusto Galván,Meia Ofensivo,0.1,Santos
+Victor Yan,Meia Ofensivo,0.05,Santos
+Yeferson Soteldo,Ponta Esquerda,8.0,Santos
+Marcos Guilherme,Ponta Esquerda,2.5,Santos
+Lucas Braga,Ponta Esquerda,2.0,Santos
+Arthur Gomes,Ponta Esquerda,1.8,Santos
+Jonathan Copete,Ponta Esquerda,0.8,Santos
+Fernandinho,Ponta Esquerda,0.2,Santos
+Allanzinho,Ponta Esquerda,0.15,Santos
+Ângelo,Ponta Direita,7.0,Santos
+Marinho,Ponta Direita,4.0,Santos
+Renyer,Ponta Direita,2.5,Santos
+Tailson,Ponta Direita,0.5,Santos
+Lucas Venuto,Ponta Direita,0.45,Santos
+Matías Lacava,Ponta Direita,0.35,Santos
+Lucas Barbosa,Ponta Direita,0.1,Santos
+Léo Baptistão,Seg. Atacante,2.0,Santos
+Kaio Jorge,Centroavante,12.0,Santos
+Marcos Leonardo,Centroavante,2.9,Santos
+Raniel,Centroavante,1.8,Santos
+Diego Tardelli,Centroavante,0.9,Santos
+Bruno Marques,Centroavante,0.7,Santos
+Tiago Volpi,Goleiro,4.0,São Paulo
+Lucas Perri,Goleiro,1.4,São Paulo
+Arthur Gazze,Goleiro,0.2,São Paulo
+Thiago Couto,Goleiro,0.05,São Paulo
+Léo,Zagueiro,2.3,São Paulo
+Bruno Alves,Zagueiro,1.9,São Paulo
+Diego Costa,Zagueiro,1.8,São Paulo
+Robert Arboleda,Zagueiro,1.6,São Paulo
+Miranda,Zagueiro,1.0,São Paulo
+Rodrigo Freitas,Zagueiro,0.4,São Paulo
+Reinaldo,Lateral Esq.,2.5,São Paulo
+Patryck,Lateral Esq.,1.0,São Paulo
+Welington,Lateral Esq.,1.0,São Paulo
+Igor Vinícius,Lateral Dir.,3.2,São Paulo
+Dani Alves,Lateral Dir.,2.0,São Paulo
+Luis Orejuela,Lateral Dir.,1.7,São Paulo
+Anilson,Lateral Dir.,0.2,São Paulo
+Luan,Volante,5.0,São Paulo
+Gabriel Neves,Volante,1.2,São Paulo
+Gabriel Falcão,Volante,0.4,São Paulo
+Tchê Tchê,Meia Central,4.0,São Paulo
+Liziero,Meia Central,4.0,São Paulo
+Rodrigo Nestor,Meia Central,2.5,São Paulo
+Talles Costa,Meia Central,1.2,São Paulo
+William,Meia Central,1.0,São Paulo
+Igor Gomes,Meia Ofensivo,8.5,São Paulo
+Gabriel Sara,Meia Ofensivo,6.5,São Paulo
+Martín Benítez,Meia Ofensivo,4.0,São Paulo
+Everton Felipe,Meia Ofensivo,0.75,São Paulo
+Shaylon,Meia Ofensivo,0.7,São Paulo
+Hernanes,Meia Ofensivo,0.65,São Paulo
+Pedrinho,Meia Ofensivo,0.25,São Paulo
+Jonas Toró,Ponta Esquerda,1.7,São Paulo
+Paulinho Bóia,Ponta Esquerda,1.0,São Paulo
+Bruno Rodrigues,Ponta Esquerda,0.3,São Paulo
+Emiliano Rigoni,Ponta Direita,2.5,São Paulo
+Joao Rojas,Ponta Direita,1.4,São Paulo
+Galeano,Ponta Direita,0.7,São Paulo
+Vitinho,Ponta Direita,0.3,São Paulo
+Marquinhos,Ponta Direita,0.25,São Paulo
+Vitor Bueno,Seg. Atacante,1.6,São Paulo
+Éder,Seg. Atacante,0.8,São Paulo
+Jonathan Calleri,Centroavante,5.0,São Paulo
+Luciano,Centroavante,4.0,São Paulo
+Pablo,Centroavante,3.0,São Paulo
+Juan,Centroavante,0.5,São Paulo
+Brenno,Goleiro,3.5,Grêmio
+Vanderlei,Goleiro,0.9,Grêmio
+Paulo Victor,Goleiro,0.5,Grêmio
+Gabriel Grando,Goleiro,0.4,Grêmio
+Adriel,Goleiro,0.1,Grêmio
+Walter Kannemann,Zagueiro,4.0,Grêmio
+Bruno Alves,Zagueiro,1.9,Grêmio
+Rodrigues,Zagueiro,1.8,Grêmio
+Ruan,Zagueiro,1.5,Grêmio
+Pedro Geromel,Zagueiro,1.5,Grêmio
+David Braz,Zagueiro,0.9,Grêmio
+Paulo Miranda,Zagueiro,0.45,Grêmio
+Emanuel,Zagueiro,0.15,Grêmio
+Diogo Barbosa,Lateral Esq.,2.0,Grêmio
+Bruno Cortez,Lateral Esq.,0.8,Grêmio
+Nicolas,Lateral Esq.,0.7,Grêmio
+Vitinho,Lateral Esq.,0.1,Grêmio
+Guilherme Guedes,Lateral Esq.,0.05,Grêmio
+Vanderson,Lateral Dir.,2.0,Grêmio
+Luis Orejuela,Lateral Dir.,1.7,Grêmio
+Léo Gomes,Lateral Dir.,1.5,Grêmio
+Rafinha,Lateral Dir.,1.0,Grêmio
+Victor Ferraz,Lateral Dir.,1.0,Grêmio
+Felipe Albuquerque,Lateral Dir.,0.05,Grêmio
+Lucas Silva,Volante,2.0,Grêmio
+Thiago Santos,Volante,1.2,Grêmio
+Victor Bobsin,Volante,0.6,Grêmio
+Bitello,Volante,0.25,Grêmio
+Jhonata Varela,Volante,0.1,Grêmio
+Lucas Araújo,Volante,0.05,Grêmio
+Matheus Henrique,Meia Central,15.0,Grêmio
+Mathías Villasanti,Meia Central,4.5,Grêmio
+Darlan,Meia Central,3.0,Grêmio
+Fernando Henrique,Meia Central,0.9,Grêmio
+Thaciano,Meia Central,0.8,Grêmio
+Maicon,Meia Central,0.4,Grêmio
+Pepê,Meia Esquerda,13.0,Grêmio
+Jean Pyerre,Meia Ofensivo,9.0,Grêmio
+Jaminton Campaz,Meia Ofensivo,4.3,Grêmio
+Martín Benítez,Meia Ofensivo,4.0,Grêmio
+Pedro Lucas,Meia Ofensivo,1.5,Grêmio
+César Pinares,Meia Ofensivo,1.4,Grêmio
+Isaque,Meia Ofensivo,1.3,Grêmio
+Rildo,Meia Ofensivo,0.45,Grêmio
+Ferreira,Ponta Esquerda,7.5,Grêmio
+Alisson,Ponta Esquerda,2.5,Grêmio
+Léo Chú,Ponta Esquerda,1.5,Grêmio
+Éverton,Ponta Esquerda,0.9,Grêmio
+Douglas Costa,Ponta Direita,6.0,Grêmio
+Janderson,Ponta Direita,2.0,Grêmio
+Léo Pereira,Ponta Direita,1.0,Grêmio
+Luiz Fernando,Ponta Direita,0.85,Grêmio
+Jhonata Robert,Ponta Direita,0.5,Grêmio
+Guilherme Azevedo,Ponta Direita,0.4,Grêmio
+Miguel Borja,Centroavante,4.8,Grêmio
+Diego Souza,Centroavante,1.5,Grêmio
+Elias Manoel,Centroavante,1.0,Grêmio
+Ricardinho,Centroavante,0.9,Grêmio
+Diego Churín,Centroavante,0.7,Grêmio
+Douglas Friedrich,Goleiro,0.9,Bahia
+Danilo Fernandes,Goleiro,0.75,Bahia
+Matheus Teixeira,Goleiro,0.5,Bahia
+Dênis Júnior,Goleiro,0.05,Bahia
+Mateus Claus,Goleiro,0.05,Bahia
+Leandro Matheus,Goleiro,0.05,Bahia
+Germán Conti,Zagueiro,2.5,Bahia
+Juninho,Zagueiro,0.95,Bahia
+Ligger,Zagueiro,0.7,Bahia
+Luiz Otávio,Zagueiro,0.6,Bahia
+Anderson Martins,Zagueiro,0.55,Bahia
+Lucas Fonseca,Zagueiro,0.45,Bahia
+Éverson,Zagueiro,0.1,Bahia
+Ignácio,Zagueiro,0.05,Bahia
+Juninho Capixaba,Lateral Esq.,1.0,Bahia
+Matheus Bahia,Lateral Esq.,1.0,Bahia
+João Pedro,Lateral Dir.,0.9,Bahia
+Renan Guedes,Lateral Dir.,0.5,Bahia
+Nino Paraíba,Lateral Dir.,0.4,Bahia
+Douglas Borel,Lateral Dir.,0.05,Bahia
+Luizão,Volante,0.7,Bahia
+Jonas,Volante,0.275,Bahia
+Edson Fernando,Volante,0.2,Bahia
+Raniele,Volante,0.15,Bahia
+Lucas Araújo,Volante,0.05,Bahia
+Patrick de Lucca,Meia Central,1.0,Bahia
+Matheus Galdezani,Meia Central,0.8,Bahia
+Thaciano,Meia Central,0.8,Bahia
+Ramon,Meia Central,0.2,Bahia
+Pablo,Meia Central,0.05,Bahia
+Óscar Ruiz,Meia Esquerda,0.5,Bahia
+Thonny Anderson,Meia Ofensivo,1.6,Bahia
+Danielzinho,Meia Ofensivo,1.4,Bahia
+Rodriguinho,Meia Ofensivo,1.3,Bahia
+Juan Pablo Ramírez,Meia Ofensivo,0.7,Bahia
+Alesson,Meia Ofensivo,0.5,Bahia
+Marco Antônio,Meia Ofensivo,0.45,Bahia
+Lucas Mugni,Meia Ofensivo,0.2,Bahia
+Eugenio Isnaldo,Ponta Esquerda,1.5,Bahia
+Thiago Andrade,Ponta Esquerda,1.0,Bahia
+Raí Nascimento,Ponta Esquerda,0.2,Bahia
+Daniel Penha,Ponta Esquerda,0.05,Bahia
+Marcelo Cirino,Ponta Direita,2.2,Bahia
+Rossi,Ponta Direita,1.0,Bahia
+Maycon Douglas,Ponta Direita,0.4,Bahia
+Gustavo,Ponta Direita,0.1,Bahia
+Gilberto,Centroavante,0.9,Bahia
+Gabriel Novaes,Centroavante,0.6,Bahia
+Marcelo Ryan,Centroavante,0.5,Bahia
+Hugo Rodallega,Centroavante,0.3,Bahia
+Fabrício,Centroavante,0.05,Bahia
+Luan Polli,Goleiro,0.6,Sport Recife
+Mailson,Goleiro,0.5,Sport Recife
+Carlos Eduardo,Goleiro,0.05,Sport Recife
+Iago Maidana,Zagueiro,1.0,Sport Recife
+Adryelson,Zagueiro,1.0,Sport Recife
+Sabino,Zagueiro,0.95,Sport Recife
+Pedro Henrique,Zagueiro,0.65,Sport Recife
+Rafael Thyere,Zagueiro,0.45,Sport Recife
+Chico,Zagueiro,0.25,Sport Recife
+Pedrão,Zagueiro,0.025,Sport Recife
+Júnior Tavares,Lateral Esq.,0.8,Sport Recife
+Sander,Lateral Esq.,0.65,Sport Recife
+Patric,Lateral Dir.,0.8,Sport Recife
+Hayner,Lateral Dir.,0.2,Sport Recife
+Ewerthon,Lateral Dir.,0.2,Sport Recife
+Elias,Lateral Dir.,0.025,Sport Recife
+Zé Welison,Volante,0.65,Sport Recife
+Betinho,Volante,0.6,Sport Recife
+Marcão Silva,Volante,0.4,Sport Recife
+Ronaldo Henrique,Volante,0.375,Sport Recife
+Márcio Araújo,Volante,0.3,Sport Recife
+Italo,Volante,0.025,Sport Recife
+Ricardinho,Meia Central,0.5,Sport Recife
+Thiago Lopes,Meia Central,0.45,Sport Recife
+Marcos Serrato,Meia Central,0.125,Sport Recife
+Maxwell,Meia Esquerda,0.2,Sport Recife
+Thiago Neves,Meia Ofensivo,1.0,Sport Recife
+Everton Felipe,Meia Ofensivo,0.75,Sport Recife
+Hernanes,Meia Ofensivo,0.65,Sport Recife
+Gustavo,Meia Ofensivo,0.25,Sport Recife
+Pablo Pardal,Meia Ofensivo,0.05,Sport Recife
+Jonas Toró,Ponta Esquerda,1.7,Sport Recife
+Marquinhos,Ponta Esquerda,0.85,Sport Recife
+Everaldo,Ponta Esquerda,0.8,Sport Recife
+Luciano Juba,Ponta Esquerda,0.65,Sport Recife
+Paulinho Moccelin,Ponta Esquerda,0.3,Sport Recife
+Maxwell,Ponta Esquerda,0.05,Sport Recife
+Neílton,Ponta Direita,1.0,Sport Recife
+Leandro Barcia,Ponta Direita,0.75,Sport Recife
+Dalberto,Ponta Direita,0.5,Sport Recife
+André,Centroavante,0.75,Sport Recife
+Santiago Tréllez,Centroavante,0.7,Sport Recife
+Hernane,Centroavante,0.5,Sport Recife
+Mikael,Centroavante,0.5,Sport Recife
+Vinicius Popó,Centroavante,0.05,Sport Recife
+Lorhan,Meio-Campo,0.05,Chapecoense
+Tiepo,Goleiro,0.8,Chapecoense
+Vagner,Goleiro,0.325,Chapecoense
+Keiller,Goleiro,0.05,Chapecoense
+João Paulo,Goleiro,0.05,Chapecoense
+Laércio,Zagueiro,0.4,Chapecoense
+Joílson,Zagueiro,0.25,Chapecoense
+Derlan,Zagueiro,0.2,Chapecoense
+Kadu,Zagueiro,0.1,Chapecoense
+Felipe Santana,Zagueiro,0.1,Chapecoense
+Tiago Coser,Zagueiro,0.1,Chapecoense
+Hiago,Zagueiro,0.05,Chapecoense
+Jordan,Zagueiro,0.05,Chapecoense
+Ignácio,Zagueiro,0.05,Chapecoense
+Busanello,Lateral Esq.,0.7,Chapecoense
+Mancha,Lateral Esq.,0.05,Chapecoense
+Ezequiel,Lateral Dir.,0.45,Chapecoense
+Matheus Ribeiro,Lateral Dir.,0.3,Chapecoense
+Ronei,Lateral Dir.,0.15,Chapecoense
+Alan Santos,Volante,0.4,Chapecoense
+Moisés Ribeiro,Volante,0.3,Chapecoense
+Anderson Leite,Volante,0.175,Chapecoense
+Guedes,Volante,0.1,Chapecoense
+Renê Júnior,Meia Central,0.4,Chapecoense
+Léo Gomes,Meia Central,0.15,Chapecoense
+Lima,Meia Central,0.1,Chapecoense
+Ravanelli,Meia Ofensivo,1.5,Chapecoense
+Felipe Silva,Meia Ofensivo,0.375,Chapecoense
+Brayan,Meia Ofensivo,0.1,Chapecoense
+Bruno Silva,Ponta Esquerda,1.1,Chapecoense
+Thiago Ribeiro,Ponta Esquerda,0.3,Chapecoense
+Kaio Nunes,Ponta Esquerda,0.3,Chapecoense
+Fabinho,Ponta Direita,1.5,Chapecoense
+Geuvânio,Ponta Direita,1.1,Chapecoense
+Mike,Ponta Direita,0.6,Chapecoense
+Vinicius Foguinho,Ponta Direita,0.25,Chapecoense
+Fernandinho,Seg. Atacante,0.4,Chapecoense
+Perotti,Centroavante,1.0,Chapecoense
+Henrique Almeida,Centroavante,0.5,Chapecoense
+Anselmo Ramon,Centroavante,0.4,Chapecoense
